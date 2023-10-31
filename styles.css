@@ -1,0 +1,5 @@
+.forecast-style {
+    flex: auto;
+    flex-direction: row;
+    display: flex;
+}
